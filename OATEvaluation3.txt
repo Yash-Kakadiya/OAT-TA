@@ -1,0 +1,20 @@
+
+1. Prepare an email for sending invitations of a conference from our university to other 5 universities using mail merge.
+
+2. Prepare a table in Excel for an  IT company with the following data for each year (2021–2025):
+   - Number of projects completed  
+   - Number of new clients acquired  
+   - Total annual sales (in INR)  
+
+ Use Excel formulas to calculate:
+   - Average sale per client  
+   - Year-over-year sales growth percentage  
+   - Total projects and clients over 5 years  
+   - Average annual growth rate  
+
+Apply conditional formatting to highlight:
+   - Years with sales growth above 20%  
+   - Any year with fewer than 10 clients
+  
+ Create a line chart to visualize:
+   - Sales trend across the 5 yearshttps://chatgpt.com/share/68d3387a-89f8-8010-9706-e5248805408a
